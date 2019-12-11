@@ -268,10 +268,6 @@ exec_always feh --bg-scale /root/Downloads/3.jpeg
 #bindsym XF86AudioLowerVolume exec pactl set-sink-volume 0 -5% #decrease sound volume
 #bindsym XF86AudioMute exec pactl set-sink-mute 0 toggle # mute sound
 
-#set $term --no-startup-id $TERMINAL
-#set $mod Mod4
-
-
 # i3-gaps
 #gaps inner 10
 #gaps outer 05
